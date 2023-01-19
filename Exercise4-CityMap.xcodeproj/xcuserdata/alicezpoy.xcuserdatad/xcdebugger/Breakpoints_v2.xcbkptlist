@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "911E78CF-A7E5-49FB-A94C-34613AFD8993"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1EAF33A-B864-486D-AFD9-A6DB6BAE6A10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Exercise4-CityMap/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "addLongPressAnnotattion(gestureRecognizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1EAF33A-B864-486D-AFD9-A6DB6BAE6A10 - 5609f68e35ba7d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exercise4_CityMap.ViewController.addLongPressAnnotattion(gestureRecognizer: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "Exercise4-CityMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alicezpoy/Private/Lambton/MAD4114/Exercise4-CityMap/Exercise4-CityMap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "B1EAF33A-B864-486D-AFD9-A6DB6BAE6A10 - 5609f68e35ba7d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exercise4_CityMap.ViewController.addLongPressAnnotattion(gestureRecognizer: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "Exercise4-CityMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alicezpoy/Private/Lambton/MAD4114/Exercise4-CityMap/Exercise4-CityMap/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
